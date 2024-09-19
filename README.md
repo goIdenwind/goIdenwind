@@ -21,4 +21,6 @@ I often do not wish to speak with other people, if I ask you to leave me alone, 
 <p align="center">
 I prefer to RP with friends ONLY. You will be ignored if you try, or hidden (24hr) if you persist.
 </p>
-
+<p align="center">
+  <img width="600" height="100%" src="https://pbs.twimg.com/media/GGBozbXWAAAv4Gc?format=png&name=900x900">
+</p>
